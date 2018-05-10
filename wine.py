@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May  8 13:43:12 2018
-
-@author: lamps08
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Sun Apr 29 17:27:25 2018
 
 @author: lamps08
